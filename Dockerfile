@@ -9,4 +9,4 @@ ARG gamelift_ver=1.0.5
 RUN apk add --no-cache wget openjdk8-jre tar
 
 #Running bash so the container doesn't close
-RUN bash
+#RUN bash
